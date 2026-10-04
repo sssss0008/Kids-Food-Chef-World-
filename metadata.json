@@ -1,0 +1,6 @@
+{
+  "name": "Kids Food Chef World",
+  "description": "Fun, educational food and cooking games for children with healthy eating lessons, mini-games, and chef progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

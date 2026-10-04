@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Crossed Kitchen Tools in Background -->
+    <!-- Wooden Spoon -->
+    <path
+        android:fillColor="#FFE0B2"
+        android:strokeColor="#FFB74D"
+        android:strokeWidth="1"
+        android:pathData="M34,74 L74,34 C76,32 78,34 76,36 L36,76 Z" />
+    <path
+        android:fillColor="#FFA726"
+        android:pathData="M75,32 C78,29 83,31 82,36 C81,40 76,41 73,38 Z" />
+
+    <!-- Whisk / Spatula -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:strokeColor="#BDBDBD"
+        android:strokeWidth="1"
+        android:pathData="M74,74 L34,34 C32,32 30,34 32,36 L72,76 Z" />
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M33,32 C30,29 25,31 26,36 C27,40 32,41 35,38 Z" />
+
+    <!-- Chef Hat Base Band -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M38,62 L70,62 C72,62 73,64 72,66 L70,72 C69.5,73.5 68,74.5 66.5,74.5 L41.5,74.5 C40,74.5 38.5,73.5 38,72 L36,66 C35,64 36,62 38,62 Z" />
+    
+    <!-- Gold Ribbon on Hat -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M37.5,67 L70.5,67 C71,67 71.5,68 71.3,69 L70,73 L38,73 L36.7,69 C36.5,68 37,67 37.5,67 Z" />
+    
+    <!-- Center Red Star / Badge on Band -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M54,67.5 L55.2,70 L57.8,70.3 L55.8,71.9 L56.4,74.5 L54,73 L51.6,74.5 L52.2,71.9 L50.2,70.3 L52.8,70 Z" />
+
+    <!-- Puffy Chef Hat Clouds -->
+    <!-- Center puff -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 C60,30 65,34 65,40 C65,42 64,44 63,46 C60,45 56,45 54,45 C52,45 48,45 45,46 C44,44 43,42 43,40 C43,34 48,30 54,30 Z" />
+    <!-- Left puff -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M44,38 C49,38 52,42 52,47 C52,53 47,58 41,58 C35,58 31,52 32,46 C33,40 38,38 44,38 Z" />
+    <!-- Right puff -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M64,38 C70,38 75,40 76,46 C77,52 73,58 67,58 C61,58 56,53 56,47 C56,42 59,38 64,38 Z" />
+    <!-- Main hat body fill connecting to band -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,48 C41,44 47,44 54,44 C61,44 67,44 70,48 C74,54 71,63 70,63 L38,63 C37,63 34,54 38,48 Z" />
+
+    <!-- Cute Smiling Face on Hat Body -->
+    <!-- Eyes -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M 48, 54 m -2, 0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M 60, 54 m -2, 0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0" />
+    <!-- Rosy Cheeks -->
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M 44.5, 57 m -2, 0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M 63.5, 57 m -2, 0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0" />
+    <!-- Smile -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#37474F"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M51,57 Q54,60.5 57,57" />
+
+    <!-- Cute mini sparkles -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M78,42 L79,44 L81,45 L79,46 L78,48 L77,46 L75,45 L77,44 Z" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M30,58 L31,60 L33,61 L31,62 L30,64 L29,62 L27,61 L29,60 Z" />
+</vector>
